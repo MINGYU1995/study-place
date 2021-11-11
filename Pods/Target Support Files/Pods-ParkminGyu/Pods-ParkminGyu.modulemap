@@ -1,0 +1,6 @@
+framework module Pods_ParkminGyu {
+  umbrella header "Pods-ParkminGyu-umbrella.h"
+
+  export *
+  module * { export * }
+}
